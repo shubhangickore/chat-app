@@ -1,6 +1,6 @@
 ..... Message Model.....
 
-Ankush(senderId)  ====> Hi Akhil
+Ankush(senderId)  ====> Hi Shubhangi
 Akhil(receiver)  ====> Hi Ankush
 
 
