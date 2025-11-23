@@ -30,7 +30,6 @@ This project is a real-time chat application built using the MERN stack (MongoDB
 - Learn how APIs interact with MongoDB
 
 ---
-
 ## 🧠 Acknowledgement
 This project is based on open-source learning resources and GitHub repositories. I’ve been modifying and exploring it for personal growth and job preparation. Credits to the original creators.
 
