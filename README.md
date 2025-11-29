@@ -27,8 +27,7 @@ This project is a real-time chat application built using the MERN stack (MongoDB
 - Understand real-time data flow with Socket.io
 - Build secure authentication with JWT
 - Explore folder structures and routing in MERN stack
-- Learn how APIs communicate with MOngoDB
-  
+- Learn how APIs interact with MongoDB.
 
 ---
 ## 🧠 Acknowledgement
