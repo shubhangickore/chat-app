@@ -36,5 +36,5 @@ This project is based on open-source learning resources and GitHub repositories.
 ---
 
 ## 📌 Note
-This repo is part of my hands-on learning journey. It may not be fully production-ready, but reflects my dedication to mastering modern web development.
+This repo is part of my hands-on learning journey. It may not be fully production-ready, but reflects my dedication to mastering modern Web Development.
 
