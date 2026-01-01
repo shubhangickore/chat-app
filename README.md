@@ -8,7 +8,7 @@ This project is a real-time chat application built using the MERN stack (MongoDB
 
 ## 🚀 Features
 - User Registration & Login
-- jwt authentication
+- JWT authentication
 - Real-time Messaging with Socket.io
 - Responsive UI using React
 - REST APIs using Express and Node.js
